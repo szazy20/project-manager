@@ -16,5 +16,5 @@ New users should sign up with a new account. Main dashboard contains all project
 Only project creator can add new members or assign tasks. 
 Other options in the sidebar include: 
 - Create project
-- Invitations (at this moment it only contains incoming invitations to projects)
+- Inbox (at this moment it only contains incoming invitations to projects)
 - Settings (user info, change profile picture)
